@@ -1,0 +1,7 @@
+{
+  "message": "login_required",
+  "error_title": "You've Been Logged Out",
+  "error_body": "Please log back in.",
+  "logout_reason": 2,
+  "status": "fail"
+}
